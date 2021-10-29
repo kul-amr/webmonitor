@@ -2,6 +2,7 @@ env/
 keys/
 .idea/
 __pycache__/
+*/__pycache__/
 *.pem
 *.cert
 *.key

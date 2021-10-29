@@ -1,0 +1,34 @@
+[
+  {
+    "website": "https://github.com/kul-amr",
+    "regexp": "kul"
+  },
+  {
+    "website": "https://github.com/kul-amr",
+    "regexp": "amr"
+  },
+  {
+    "website": "https://github.com/kul-amr",
+    "regexp": "kul-amr-amr"
+  },
+  {
+    "website": "https://stackoverflow.com/",
+    "regexp": ""
+  },
+  {
+    "website": "https://www.linkedin.com/feed/",
+    "regexp": ""
+  },
+  {
+    "website": "https://faker.readthedocs.io/en/master/#",
+    "regexp": "Faker’s"
+  },
+  {
+    "website": "https://developer.aiven.io/",
+    "regexp": ""
+  },
+  {
+    "website": "https://medium.com/",
+    "regexp": "TOPICS"
+  }
+]

@@ -6,7 +6,7 @@ Prerequisite-
 - Need to create the Aiven PostgreSQL database and Aiven Kafka service.
 - Kafka producer and consumer is using SSL auth, so need to download the 
   service.key, service.cert and ca.pem files from Aiven Kafka and add in 
-  the /keys directory.
+  the /webmonitor/keys directory.
 - This application uses the websites.json file to get the
   list of websites and regexp for monitoring. 
 
@@ -14,6 +14,6 @@ To build the docker image :
 
     sudo docker build -t IMAGE_NAME .
 
-To run the docker image :
+To run the docker container from image :
 
     sudo docker run -it IMAGE_NAME 
